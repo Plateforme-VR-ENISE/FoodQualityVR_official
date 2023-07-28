@@ -1,0 +1,194 @@
+"Stimulus","Model","Vertex_Nb","Texture_Size","Graphic_lpips","Pseudo_MOS"
+"screenshot_muffin_10 (1)_256","muffin",10,"256",1,1
+"screenshot_muffin_10 (2)_512","muffin",10,"512",1,1
+"screenshot_muffin_10 (3)_1024","muffin",10,"1024",1,1
+"screenshot_muffin_12 (1)_256","muffin",12,"256",1,1
+"screenshot_muffin_12 (2)_512","muffin",12,"512",1,1
+"screenshot_muffin_12 (3)_1024","muffin",12,"1024",1,1
+"screenshot_muffin_16 (1)_256","muffin",16,"256",0.99086956,1.03652176
+"screenshot_muffin_16 (2)_512","muffin",16,"512",0.99103228,1.03587088
+"screenshot_muffin_16 (3)_2048","muffin",16,"2048",0.99071388,1.03714448
+"screenshot_muffin_20 (1)_256","muffin",20,"256",0.99081856,1.03672576
+"screenshot_muffin_20 (2)_512","muffin",20,"512",0.98903536,1.04385856
+"screenshot_muffin_20 (3)_2048","muffin",20,"2048",0.98857996,1.04568016
+"screenshot_muffin_26 (1)_256","muffin",26,"256",0.98450652,1.06197392
+"screenshot_muffin_26 (2)_512","muffin",26,"512",0.97604584,1.09581664
+"screenshot_muffin_26 (3)_2048","muffin",26,"2048",0.97557652,1.09769392
+"screenshot_muffin_32 (1)_256","muffin",32,"256",0.98032776,1.07868896
+"screenshot_muffin_32 (2)_1024","muffin",32,"1024",0.971885,1.11246
+"screenshot_muffin_32 (3)_2048","muffin",32,"2048",0.97161428,1.11354288
+"screenshot_muffin_40 (1)_256","muffin",40,"256",0.97508404,1.09966384
+"screenshot_muffin_40 (2)_1024","muffin",40,"1024",0.96815456,1.12738176
+"screenshot_muffin_40 (3)_2048","muffin",40,"2048",0.96641204,1.13435184
+"screenshot_muffin_50 (1)_512","muffin",50,"512",0.93835188,1.24659248
+"screenshot_muffin_50 (2)_1024","muffin",50,"1024",0.92912432,1.28350272
+"screenshot_muffin_50 (3)_2048","muffin",50,"2048",0.92840524,1.28637904
+"screenshot_muffin_60 (1)_512","muffin",60,"512",0.88219944,1.47120224
+"screenshot_muffin_60 (2)_1024","muffin",60,"1024",0.8718386,1.5126456
+"screenshot_muffin_60 (3)_2048","muffin",60,"2048",0.8703168,1.5187328
+"screenshot_muffin_74 (1)_512","muffin",74,"512",0.8306994,1.6772024
+"screenshot_muffin_74 (2)_1024","muffin",74,"1024",0.81478004,1.74087984
+"screenshot_muffin_74 (3)_2048","muffin",74,"2048",0.81310892,1.74756432
+"screenshot_muffin_90 (1)_512","muffin",90,"512",0.76000076,1.95999696
+"screenshot_muffin_90 (2)_1024","muffin",90,"1024",0.75870404,1.96518384
+"screenshot_muffin_90 (3)_2048","muffin",90,"2048",0.7610468,1.9558128
+"screenshot_muffin_90_256","muffin",90,"256",0.85978696,1.56085216
+"screenshot_muffin_110 (1)_512","muffin",110,"512",0.73497272,2.06010912
+"screenshot_muffin_110 (2)_1024","muffin",110,"1024",0.73465412,2.06138352
+"screenshot_muffin_110 (3)_2048","muffin",110,"2048",0.7346412,2.0614352
+"screenshot_muffin_110_256","muffin",110,"256",0.8432992,1.6268032
+"screenshot_muffin_134 (1)_512","muffin",134,"512",0.65279108,2.38883568
+"screenshot_muffin_134 (2)_1024","muffin",134,"1024",0.64592804,2.41628784
+"screenshot_muffin_134 (3)_2048","muffin",134,"2048",0.64780252,2.40878992
+"screenshot_muffin_134_256","muffin",134,"256",0.76798008,1.92807968
+"screenshot_muffin_162 (1)_512","muffin",162,"512",0.61912876,2.52348496
+"screenshot_muffin_162 (2)_1024","muffin",162,"1024",0.61470028,2.54119888
+"screenshot_muffin_162 (3)_2048","muffin",162,"2048",0.61530512,2.53877952
+"screenshot_muffin_162_256","muffin",162,"256",0.73389992,2.06440032
+"screenshot_muffin_196 (1)_512","muffin",196,"512",0.60266392,2.58934432
+"screenshot_muffin_196 (2)_1024","muffin",196,"1024",0.58796576,2.64813696
+"screenshot_muffin_196 (3)_2048","muffin",196,"2048",0.58587356,2.65650576
+"screenshot_muffin_196_256","muffin",196,"256",0.72460904,2.10156384
+"screenshot_muffin_236 (1)_512","muffin",236,"512",0.53943464,2.84226144
+"screenshot_muffin_236 (2)_1024","muffin",236,"1024",0.52839088,2.88643648
+"screenshot_muffin_236 (3)_2048","muffin",236,"2048",0.52489684,2.90041264
+"screenshot_muffin_236_256","muffin",236,"256",0.68114316,2.27542736
+"screenshot_muffin_284 (1)_512","muffin",284,"512",0.484593,3.061628
+"screenshot_muffin_284 (2)_1024","muffin",284,"1024",0.46940976,3.12236096
+"screenshot_muffin_284 (3)_2048","muffin",284,"2048",0.4666428,3.1334288
+"screenshot_muffin_284_256","muffin",284,"256",0.62641364,2.49434544
+"screenshot_muffin_342 (1)_512","muffin",342,"512",0.48723072,3.05107712
+"screenshot_muffin_342 (2)_1024","muffin",342,"1024",0.46805556,3.12777776
+"screenshot_muffin_342 (3)_2048","muffin",342,"2048",0.46522084,3.13911664
+"screenshot_muffin_342_256","muffin",342,"256",0.62949976,2.48200096
+"screenshot_muffin_412 (1)_512","muffin",412,"512",0.44818328,3.20726688
+"screenshot_muffin_412 (2)_1024","muffin",412,"1024",0.4300038,3.2799848
+"screenshot_muffin_412 (3)_2048","muffin",412,"2048",0.42786788,3.28852848
+"screenshot_muffin_412_256","muffin",412,"256",0.59542512,2.61829952
+"screenshot_muffin_496 (1)_512","muffin",496,"512",0.41987808,3.32048768
+"screenshot_muffin_496 (2)_1024","muffin",496,"1024",0.4066254,3.3734984
+"screenshot_muffin_496 (3)_2048","muffin",496,"2048",0.40389304,3.38442784
+"screenshot_muffin_496_256","muffin",496,"256",0.56648748,2.73405008
+"screenshot_muffin_596 (1)_512","muffin",596,"512",0.40252048,3.38991808
+"screenshot_muffin_596 (2)_1024","muffin",596,"1024",0.39135776,3.43456896
+"screenshot_muffin_596 (3)_2048","muffin",596,"2048",0.38825744,3.44697024
+"screenshot_muffin_596_256","muffin",596,"256",0.55520896,2.77916416
+"screenshot_muffin_716 (1)_512","muffin",716,"512",0.34935564,3.60257744
+"screenshot_muffin_716 (2)_1024","muffin",716,"1024",0.33316264,3.66734944
+"screenshot_muffin_716 (3)_2048","muffin",716,"2048",0.33033704,3.67865184
+"screenshot_muffin_716_256","muffin",716,"256",0.51797588,2.92809648
+"screenshot_muffin_860 (1)_512","muffin",860,"512",0.29537664,3.81849344
+"screenshot_muffin_860 (2)_1024","muffin",860,"1024",0.27770016,3.88919936
+"screenshot_muffin_860 (3)_2048","muffin",860,"2048",0.27253556,3.90985776
+"screenshot_muffin_860_256","muffin",860,"256",0.48346088,3.06615648
+"screenshot_muffin_1034 (1)_512","muffin",1034,"512",0.26242568,3.95029728
+"screenshot_muffin_1034 (2)_1024","muffin",1034,"1024",0.24461696,4.02153216
+"screenshot_muffin_1034 (3)_2048","muffin",1034,"2048",0.23897912,4.04408352
+"screenshot_muffin_1034_256","muffin",1034,"256",0.44953672,3.20185312
+"screenshot_muffin_1242 (1)_512","muffin",1242,"512",0.24436624,4.02253504
+"screenshot_muffin_1242 (2)_1024","muffin",1242,"1024",0.22877988,4.08488048
+"screenshot_muffin_1242 (3)_2048","muffin",1242,"2048",0.2254216,4.0983136
+"screenshot_muffin_1242_256","muffin",1242,"256",0.4272968,3.2908128
+"screenshot_muffin_1492 (1)_512","muffin",1492,"512",0.22427704,4.10289184
+"screenshot_muffin_1492 (2)_1024","muffin",1492,"1024",0.20771584,4.16913664
+"screenshot_muffin_1492 (3)_2048","muffin",1492,"2048",0.20364364,4.18542544
+"screenshot_muffin_1492_256","muffin",1492,"256",0.4100098,3.3599608
+"screenshot_muffin_1792 (1)_512","muffin",1792,"512",0.20765644,4.16937424
+"screenshot_muffin_1792 (2)_1024","muffin",1792,"1024",0.18736456,4.25054176
+"screenshot_muffin_1792 (3)_2048","muffin",1792,"2048",0.18428012,4.26287952
+"screenshot_muffin_1792_256","muffin",1792,"256",0.39744372,3.41022512
+"screenshot_muffin_2152 (1)_512","muffin",2152,"512",0.1904828,4.2380688
+"screenshot_muffin_2152 (2)_1024","muffin",2152,"1024",0.16680988,4.33276048
+"screenshot_muffin_2152 (3)_2048","muffin",2152,"2048",0.16285444,4.34858224
+"screenshot_muffin_2152_256","muffin",2152,"256",0.38512596,3.45949616
+"screenshot_muffin_2584 (1)_512","muffin",2584,"512",0.1654944,4.3380224
+"screenshot_muffin_2584 (2)_1024","muffin",2584,"1024",0.15042776,4.39828896
+"screenshot_muffin_2584 (3)_2048","muffin",2584,"2048",0.14930148,4.40279408
+"screenshot_muffin_2584_256","muffin",2584,"256",0.37378552,3.50485792
+"screenshot_muffin_3102 (1)_512","muffin",3102,"512",0.14897228,4.40411088
+"screenshot_muffin_3102 (2)_1024","muffin",3102,"1024",0.1362278,4.4550888
+"screenshot_muffin_3102 (3)_2048","muffin",3102,"2048",0.13313652,4.46745392
+"screenshot_muffin_3102_256","muffin",3102,"256",0.36337808,3.54648768
+"screenshot_muffin_3724 (1)_512","muffin",3724,"512",0.12621196,4.49515216
+"screenshot_muffin_3724 (2)_1024","muffin",3724,"1024",0.10581996,4.57672016
+"screenshot_muffin_3724 (3)_2048","muffin",3724,"2048",0.1017722,4.5929112
+"screenshot_muffin_3724_256","muffin",3724,"256",0.3486902,3.6052392
+"screenshot_muffin_4470 (1)_512","muffin",4470,"512",0.10248708,4.59005168
+"screenshot_muffin_4470 (2)_1024","muffin",4470,"1024",0.08087224,4.67651104
+"screenshot_muffin_4470 (3)_2048","muffin",4470,"2048",0.07728096,4.69087616
+"screenshot_muffin_4470_256","muffin",4470,"256",0.33622684,3.65509264
+"screenshot_muffin_5366 (1)_512","muffin",5366,"512",0.09607508,4.61569968
+"screenshot_muffin_5366 (2)_1024","muffin",5366,"1024",0.07535396,4.69858416
+"screenshot_muffin_5366 (3)_2048","muffin",5366,"2048",0.07186732,4.71253072
+"screenshot_muffin_5366_256","muffin",5366,"256",0.33509352,3.65962592
+"screenshot_muffin_6440 (1)_512","muffin",6440,"512",0.09039116,4.63843536
+"screenshot_muffin_6440 (2)_1024","muffin",6440,"1024",0.06748088,4.73007648
+"screenshot_muffin_6440 (3)_2048","muffin",6440,"2048",0.06390864,4.74436544
+"screenshot_muffin_6440_256","muffin",6440,"256",0.332417,3.670332
+"screenshot_muffin_7728 (1)_512","muffin",7728,"512",0.07939472,4.68242112
+"screenshot_muffin_7728 (2)_1024","muffin",7728,"1024",0.0533862,4.7864552
+"screenshot_muffin_7728 (3)_2048","muffin",7728,"2048",0.04998724,4.80005104
+"screenshot_muffin_7728_256","muffin",7728,"256",0.32825012,3.68699952
+"screenshot_muffin_9274 (1)_512","muffin",9274,"512",0.0749054,4.7003784
+"screenshot_muffin_9274 (2)_1024","muffin",9274,"1024",0.0471748,4.8113008
+"screenshot_muffin_9274 (3)_2048","muffin",9274,"2048",0.04397436,4.82410256
+"screenshot_muffin_9274_256","muffin",9274,"256",0.3233536,3.7065856
+"screenshot_muffin_11130 (1)_512","muffin",11130,"512",0.07317264,4.70730944
+"screenshot_muffin_11130 (2)_1024","muffin",11130,"1024",0.0418582,4.8325672
+"screenshot_muffin_11130 (3)_2048","muffin",11130,"2048",0.03812764,4.84748944
+"screenshot_muffin_11130_256","muffin",11130,"256",0.32483384,3.70066464
+"screenshot_muffin_13356 (1)_512","muffin",13356,"512",0.0660746,4.7357016
+"screenshot_muffin_13356 (2)_1024","muffin",13356,"1024",0.03555092,4.85779632
+"screenshot_muffin_13356 (3)_2048","muffin",13356,"2048",0.0319442,4.8722232
+"screenshot_muffin_13356_256","muffin",13356,"256",0.31732568,3.73069728
+"screenshot_muffin_16028 (1)_512","muffin",16028,"512",0.0654962,4.7380152
+"screenshot_muffin_16028 (2)_1024","muffin",16028,"1024",0.0336296,4.8654816
+"screenshot_muffin_16028 (3)_2048","muffin",16028,"2048",0.02987904,4.88048384
+"screenshot_muffin_16028_256","muffin",16028,"256",0.32059956,3.71760176
+"screenshot_muffin_19234 (1)_512","muffin",19234,"512",0.05914756,4.76340976
+"screenshot_muffin_19234 (2)_1024","muffin",19234,"1024",0.025747,4.897012
+"screenshot_muffin_19234 (3)_2048","muffin",19234,"2048",0.02201636,4.91193456
+"screenshot_muffin_19234_256","muffin",19234,"256",0.31631276,3.73474896
+"screenshot_muffin_23082 (1)_512","muffin",23082,"512",0.05685692,4.77257232
+"screenshot_muffin_23082 (2)_1024","muffin",23082,"1024",0.02144348,4.91422608
+"screenshot_muffin_23082 (3)_2048","muffin",23082,"2048",0.01773008,4.92907968
+"screenshot_muffin_23082_256","muffin",23082,"256",0.31304408,3.74782368
+"screenshot_muffin_27700 (1)_512","muffin",27700,"512",0.05471388,4.78114448
+"screenshot_muffin_27700 (2)_1024","muffin",27700,"1024",0.01829884,4.92680464
+"screenshot_muffin_27700 (3)_2048","muffin",27700,"2048",0.01450708,4.94197168
+"screenshot_muffin_27700_256","muffin",27700,"256",0.31209532,3.75161872
+"screenshot_muffin_33240 (1)_512","muffin",33240,"512",0.05519624,4.77921504
+"screenshot_muffin_33240 (2)_1024","muffin",33240,"1024",0.0165308,4.9338768
+"screenshot_muffin_33240 (3)_2048","muffin",33240,"2048",0.01267448,4.94930208
+"screenshot_muffin_33240_256","muffin",33240,"256",0.31213588,3.75145648
+"screenshot_muffin_39888 (1)_512","muffin",39888,"512",0.05342388,4.78630448
+"screenshot_muffin_39888 (2)_1024","muffin",39888,"1024",0.01432668,4.94269328
+"screenshot_muffin_39888 (3)_2048","muffin",39888,"2048",0.01028128,4.95887488
+"screenshot_muffin_39888_256","muffin",39888,"256",0.30947248,3.76211008
+"screenshot_muffin_47866 (1)_512","muffin",47866,"512",0.05313848,4.78744608
+"screenshot_muffin_47866 (2)_1024","muffin",47866,"1024",0.01237676,4.95049296
+"screenshot_muffin_47866 (3)_2048","muffin",47866,"2048",0.00851816,4.96592736
+"screenshot_muffin_47866_256","muffin",47866,"256",0.31142688,3.75429248
+"screenshot_muffin_57440 (1)_512","muffin",57440,"512",0.05310008,4.78759968
+"screenshot_muffin_57440 (2)_1024","muffin",57440,"1024",0.01092884,4.95628464
+"screenshot_muffin_57440 (3)_2048","muffin",57440,"2048",0.00719156,4.97123376
+"screenshot_muffin_57440_256","muffin",57440,"256",0.3093798,3.7624808
+"screenshot_muffin_68930 (1)_512","muffin",68930,"512",0.05209508,4.79161968
+"screenshot_muffin_68930 (2)_1024","muffin",68930,"1024",0.0096756,4.9612976
+"screenshot_muffin_68930 (3)_2048","muffin",68930,"2048",0.00581388,4.97674448
+"screenshot_muffin_68930_256","muffin",68930,"256",0.31065624,3.75737504
+"screenshot_muffin_82718 (1)_512","muffin",82718,"512",0.04979124,4.80083504
+"screenshot_muffin_82718 (2)_1024","muffin",82718,"1024",0.00764336,4.96942656
+"screenshot_muffin_82718 (3)_2048","muffin",82718,"2048",0.00335924,4.98656304
+"screenshot_muffin_82718_256","muffin",82718,"256",0.30846296,3.76614816
+"screenshot_muffin_99262 (1)_512","muffin",99262,"512",0.04912972,4.80348112
+"screenshot_muffin_99262 (2)_1024","muffin",99262,"1024",0.00588224,4.97647104
+"screenshot_muffin_99262 (3)_2048","muffin",99262,"2048",0.00178232,4.99287072
+"screenshot_muffin_99262_256","muffin",99262,"256",0.30710984,3.77156064
+"screenshot_muffin_119116 (1)_512","muffin",119116,"512",0.04881228,4.80475088
+"screenshot_muffin_119116 (2)_1024","muffin",119116,"1024",0.00501096,4.97995616
+"screenshot_muffin_119116 (3)_2048","muffin",119116,"2048",0.0009686,4.9961256
+"screenshot_muffin_119116_256","muffin",119116,"256",0.30736948,3.77052208
+"screenshot_muffin_142940 (1)_512","muffin",142940,"512",0.04854852,4.80580592
+"screenshot_muffin_142940 (2)_1024","muffin",142940,"1024",0.0041086,4.9835656
+"screenshot_muffin_142940_256","muffin",142940,"256",0.30712884,3.77148464

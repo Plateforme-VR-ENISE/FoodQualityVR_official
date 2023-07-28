@@ -1,0 +1,67 @@
+Sub SelectChoosenQualityLevel()
+
+
+Dim LastRow As Long
+Dim HighestVerticesNumber As Long
+Dim HighestTextureSize As Long
+Dim PseudoMosMax As Integer
+Dim incrementorForChosenQuality As Integer
+
+Dim myCSVFileName As String
+Dim myWB As Workbook
+Dim rngToSave As Range
+Dim fNum As Integer
+Dim csvVal As String
+
+LastRow = ActiveSheet.Cells.Find("*", SearchOrder:=xlByRows, SearchDirection:=xlPrevious).Row
+HighestVerticesNumber = Application.WorksheetFunction.Max(Range("C:C"))
+HighestTextureSize = 2048
+PseudoMosMax = 5
+incrementorForChosenQuality = 1
+
+
+Cells(LastRow + 1, 1).Value = "screenshot_" & Cells(LastRow, 2).Value & "_" & HighestVerticesNumber & " (3)_2048"
+Cells(LastRow + 1, 2).Value = Cells(LastRow, 2).Value
+Cells(LastRow + 1, 3).Value = HighestVerticesNumber
+Cells(LastRow + 1, 4).Value = HighestTextureSize
+Cells(LastRow + 1, 6).Value = PseudoMosMax
+
+Cells(LastRow + 1, 1).EntireRow.Interior.ColorIndex = 6
+
+
+LastRow = ActiveSheet.Cells.Find("*", SearchOrder:=xlByRows, SearchDirection:=xlPrevious).Row
+For i = 1 To LastRow
+
+If Cells(i, 1).Interior.ColorIndex = 6 Then
+For j = 1 To 7
+Cells(incrementorForChosenQuality, j + 9).Value = Cells(i, j).Value
+Next j
+incrementorForChosenQuality = incrementorForChosenQuality + 1
+End If
+
+Next i
+
+
+
+Set myWB = ThisWorkbook
+myCSVFileName = myWB.Path & "\" & "ChosenFoods_" & CStr(Cells(LastRow, 2).Value) & ".csv"
+csvVal = ""
+fNum = FreeFile
+Set rngToSave = Range("J1:O20")
+
+Open myCSVFileName For Output As #fNum
+
+For i = 1 To 100
+For j = 1 To 100
+csvVal = csvVal & rngToSave(i, j).Value & ";"
+Next
+Print #fNum, Left(csvVal, Len(csvVal) - 2)
+csvVal = ""
+Next
+
+Close #fileNumber
+    
+End Sub
+
+
+
